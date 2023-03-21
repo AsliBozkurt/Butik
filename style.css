@@ -24,13 +24,14 @@ body {
 }
 
 .logo {
-  width:210px;
-  height:210px;
+  width:200px;
+  height:200px;
   position: relative;
   top:20px;
   left:10px;
   right:600px;
   border-radius:50%;
+  display:block; margin: 10px auto;
 }
 
 #flex-container {
@@ -46,20 +47,13 @@ body {
 .flex-items {
   text-align: center;
   margin-bottom: 7px;
-<<<<<<< HEAD
   border-style: solid,2px,black;
-=======
->>>>>>> 4526c3d83c6fccda2bde638d25c6b525ee35ecaa
 }
 
 .flex-items a {
   width: 70px;
   height: 70px;
-<<<<<<< HEAD
   background:black;
-=======
-  background: linear-gradient(rgb(255, 255, 255),rgb(252, 252, 252));
->>>>>>> 4526c3d83c6fccda2bde638d25c6b525ee35ecaa
   border-radius: 8px;
   margin-top: 8px;
   text-decoration:none;
@@ -70,16 +64,11 @@ body {
 }
 
 .flex-items span {
-<<<<<<< HEAD
   color: rgba(37,37,37,1);
-=======
-  color: white;
->>>>>>> 4526c3d83c6fccda2bde638d25c6b525ee35ecaa
   font-size: medium;
 }
 
 .whatsapp {
-<<<<<<< HEAD
   color:rgb(97,99,101);
 }
 
@@ -107,11 +96,3 @@ body {
 .website {
   color:rgb(97,99,101)
 }
-=======
-  color: #5ee02e;
-}
-
-.instagram {
-  color:linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-}
->>>>>>> 4526c3d83c6fccda2bde638d25c6b525ee35ecaa
